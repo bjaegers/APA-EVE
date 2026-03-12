@@ -1,5 +1,6 @@
 {
   "version": "1.0.4",
-  "download_url": "https://github.com/bjaegers/APA-Val-Tool/releases/download/v1.0.4/APA-Val-Tool.exe",
+  "download_url": "https://github.com/bjaegers/APA-EVE/releases/download/v1.0.4/APA-EVE.exe",
   "release_notes": "Initial release with auto-updater functionality."
+
 }
