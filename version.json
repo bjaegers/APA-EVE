@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/bjaegers/APA-EVE/releases/download/1.0.6/APA-EVE.exe",
+  "version": "1.0.7",
+  "download_url": "https://github.com/bjaegers/APA-EVE/releases/download/1.0.7/APA-EVE.exe",
   "release_notes": "Initial release with auto-updater functionality."
 
 }
