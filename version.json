@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "download_url": "https://github.com/bjaegers/APA-EVE/releases/download/1.0.7/APA-EVE.exe",
-  "release_notes": "Initial release with auto-updater functionality."
+  "version": "1.0.8",
+  "download_url": "https://github.com/bjaegers/APA-EVE/releases/download/1.0.8/APA-EVE.exe",
+  "release_notes": "Progress bar fixes, speed fixes, and server side fixes"
 
 }
 
